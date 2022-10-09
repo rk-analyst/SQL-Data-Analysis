@@ -109,5 +109,3 @@ CREATE TABLE photo_tags(
 /* We have a foreign key photo_id which references to field id in table photos. */
 /* We have a foreign key tag_id which references to field id in table tags. */
 /* Here, PK is a composite key with columns tag_id and photo_id */
-
-
